@@ -16,9 +16,3 @@ Como analista de datos, Crankshaft list me ha pedido que estudie y determine qu�
 * Paso 2. Preprocesamiento de datos
 * Paso 3. Agregue, agrupe y calcule los datos necesarios para DataFrame
 * Paso 4. Realice el análisis exploratorio de datos siguiendo las instrucciones a continuación.
-
-# Paso 1. Carga de Datos
-***
-
-## Carga las librerías
-***
